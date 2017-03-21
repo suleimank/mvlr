@@ -2,8 +2,8 @@
 # Copyright (R), all rights reserved by authors.
 #
 # Authors: 
-# Suleiman Khan (khan.suleiman@gmail.com)
-# Muhammad Ammad (myammad@gmail.com)
+# Suleiman Khan (suleiman.khan@helsinki.fi)
+# Muhammad Ammad (muhammad.ammad-ud-din@helsinki.fi )
 
 library("mvtnorm")
 source("HelpingFunctions.R")
